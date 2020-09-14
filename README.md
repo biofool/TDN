@@ -1,5 +1,4 @@
-# TDN
-Truthiness Discovery Network
+# TDN - Truthiness Discovery Network
 
 Deep State Conspiracies, Deep Fakes, Fake News. Lies, Damn Lies and Statistics.  What’s a person to do?
 
